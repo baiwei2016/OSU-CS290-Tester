@@ -1,0 +1,5 @@
+HTML, standing for HyperText Markup Language, is the language used throughout the web to define the way information is organized.
+
+HyperText refers to documents that link to one another.
+
+Markup Language means that it is basically a language to add meta-data to existing data.
