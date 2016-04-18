@@ -1,2 +1,8 @@
-HTML stands for Hypertext Markup Language. When people think of the language used to write web pages, this is usually what comes to mind. 
+Document Structure
+HTML stands for Hypertext Markup Language. When people think of the language used to write web pages, this is usually what comes to mind.
+
+Page Look and Feel
 CSS stands for Cascading Style Sheets. This is the language that is used to actually modify the layout and styling of a page. 
+
+HTTP and TCP/IP
+HTTP is more fundamental to this class. It is more like that language that is spoken on the 'call' between the client and the server.
