@@ -1,26 +1,2 @@
-When we say that things happen client side we are referring to things that happen within the browser without the need to contact a server. 
-
- The important thing to know is that other people (like the instructor and graders) can only access your page if your address looks like the first address (http://news.google.com). If it is being accessed as localhost (http://localhost:3000) or with (file://) then only you can access it.
-
-Document Structure
-HTML stands for Hypertext Markup Language. When people think of the language used to write web pages, this is usually what comes to mind. But we need to be careful with what the purpose of HTML is. It defines the document structure.  No more, no less. It is not responsible for what the page looks like. Browsers have conventions about how certain HTML elements should look but the job of HTML is not to decide the look of the page. It is to decide the structure and meaning of the content.
-
-Page Look and Feel
-CSS stands for Cascading Style Sheets. This is the language that is used to actually modify the layout and styling of a page. HTML might define what is in a particular section but CSS will determine what that section looks like. CSS can change the spacing between things, the color of things or even make very simple interactivity possible. For example is is possible to change the color of something when you mouse over it using CSS. However there is not much more than that in terms of logic.
-
-Review
-As we learned previously there are different layers to a web page and several stages in a pages life-cycle. This section detailed some of the most important languages involved in those different layers. HTML and CSS are both used by the browser to structure a page and style it. JavaScript it made to make that page respond to client side events and any one of a very large selection of languages can be used on the server to generate pages with dynamic content.
-
-
-HTTP and TCP/IP
-Intro
-HTTP is more fundamental to this class. It is more like that language that is spoken on the 'call' between the client and the server. We previously talked about how requests are made to servers and how servers respond to the requests. HTTP is what defines how that process works.
-
-HTTP Request and Response
-There are two part to a usual browser/server web interaction. The request and the response. The request gets sent from the browser to the server. It is composed of two parts, the headers and the body. Often times the body is blank as there is no additional information that needs to get sent along. But if something like a form is submitted to the server by the client then that information is included in the request body sent by the client.
-
-
-
-Intro to Git and Version Control
-Basics of Git
-There is a lot of depth one can go into when talking about version control. Git is just one tool to implement version control. Other popular options are SVN and Mercurial. However, Git is what we will be using for this class and we will only be scratching the surface.
+HTML stands for Hypertext Markup Language. When people think of the language used to write web pages, this is usually what comes to mind. 
+CSS stands for Cascading Style Sheets. This is the language that is used to actually modify the layout and styling of a page. 
